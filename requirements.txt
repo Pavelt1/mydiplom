@@ -1,0 +1,11 @@
+Django==4.2
+djangorestframework==3.14
+drf-spectacular==0.26
+PyYAML==6.0
+requests==2.31
+psycopg2-binary==2.9.7
+redis==4.6.0
+django-filter==23.2
+celery==5.3.4
+python-dotenv==1.0
+xmltodict==0.13.0
